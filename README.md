@@ -3,6 +3,7 @@
 This project is available for open source contribution
 
 ## Video link on youtube
+If want details explanation of project go and watch videos. make sure if you like the video then please subscribe my channel.
 https://www.youtube.com/watch?v=CUkggjNNoWs&list=PLA0J2h1KIAR7xoDbI1usGLVRW6_6qiLuq&index=19
 
 ## Overview  
