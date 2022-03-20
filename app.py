@@ -1,3 +1,5 @@
+#Implement all this concept by machine learning with flask
+
 from flask import Flask, escape, request, render_template
 import pickle
 
